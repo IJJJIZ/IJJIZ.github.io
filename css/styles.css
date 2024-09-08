@@ -1,0 +1,15 @@
+body {
+    background-color: powderblue;
+    font-family: verdana;
+    border: 30px outset whitesmoke;
+    padding: 30px;
+    margin: 200px;
+}
+ul {
+    border: 10px solid whitesmoke;
+    padding: 20px
+}
+img {
+    border-radius: 8px;
+    width: 500px;
+}
